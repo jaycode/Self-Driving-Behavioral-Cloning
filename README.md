@@ -15,7 +15,7 @@ The goals / steps of this project are the following:
 [dropout-overfit]: ./doc_imgs/dropout-overfit.png "Dropout - Overfit"
 [dropout-iterative]: ./doc_imgs/dropout-iterative.png "Dropout - Iterative"
 
-[nvidianet]: ./doc_imgs/NVIDIANet.png "NVIDIA Net"
+[nvidianet]: ./doc_imgs/NVIDIANet.PNG "NVIDIA Net"
 
 [c]: ./doc_imgs/c.jpg "Center"
 [l]: ./doc_imgs/l.jpg "Left"
